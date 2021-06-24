@@ -1,0 +1,17 @@
+{
+  "name": "arthuranderson3.github.io",
+  "version": "0.0.1",
+  "description": "home page",
+  "repository": "https://github.com/arthuranderson3/arthuranderson3.github.io.git",
+  "author": "Arthur Anderson <arthur.anderson3@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack --open"
+  },
+  "devDependencies": {
+    "webpack": "^5.40.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
